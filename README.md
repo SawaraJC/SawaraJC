@@ -5,8 +5,11 @@ Hi there! I'm Sanwara, a passionate Computer Engineering student based in Pune. 
 **About Me** ℹ️
 
 🌱 I’m currently learning ML and DS.
+
 👯 I’m looking to collaborate on projects which will require high critical thinking and problem solving.
+
 💬 Ask me about Java, ReactJS, Python, Data Analytics, AWS, PowerBI, JS, MongoDB, MySQL
+
 📫 How to reach me: chandaksawara02@gmail.com
 
 **Technologies & Tools** 🛠️
