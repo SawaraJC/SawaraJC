@@ -19,14 +19,19 @@ Hi there! I'm Sanwara, a passionate Computer Engineering student based in Pune. 
 Here are some of the technologies and tools I work with:
 
 Programming Languages: JAVA, Python, JavaScript.
+
 Frameworks & Libraries: ReactJS, NodeJS, Pandas, Numpy, Tensorflow
+
 Databases: MongoDB, MySQL
+
 Tools: GitHub, VS Code, Slack, Trello
+
 
 
 **Get in Touch** 📬
 
 Twitter: https://twitter.com/ChandakSawara
+
 LinkedIn: https://www.linkedin.com/in/sanwara-chandak-a81ab322a/
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
