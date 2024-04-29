@@ -2,6 +2,7 @@
 
 Hi there! I'm Sanwara, a passionate Computer Engineering student based in Pune. Welcome to my GitHub profile!
 
+
 **About Me** ℹ️
 
 🌱 I’m currently learning ML and DS.
@@ -12,6 +13,7 @@ Hi there! I'm Sanwara, a passionate Computer Engineering student based in Pune. 
 
 📫 How to reach me: chandaksawara02@gmail.com
 
+
 **Technologies & Tools** 🛠️
 
 Here are some of the technologies and tools I work with:
@@ -20,6 +22,7 @@ Programming Languages: JAVA, Python, JavaScript.
 Frameworks & Libraries: ReactJS, NodeJS, Pandas, Numpy, Tensorflow
 Databases: MongoDB, MySQL
 Tools: GitHub, VS Code, Slack, Trello
+
 
 **Get in Touch** 📬
 
