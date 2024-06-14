@@ -1,4 +1,4 @@
-**Welcome to Sanwara Chandak's GitHub Profile** 👋
+**Welcome to my GitHub Profile** 👋
 
 Hi there! I'm Sanwara, a passionate Computer Engineering student based in Pune. Welcome to my GitHub profile!
 
