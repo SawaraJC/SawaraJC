@@ -1,39 +1,31 @@
-**Welcome to my GitHub Profile** 👋
+# Welcome to My GitHub Profile  
 
-Hi there! I'm Sanwara, a passionate Computer Engineering student based in Pune. Welcome to my GitHub profile!
+I’m **Sanwara Chandak**, a Computer Engineering student from Pune, India. Passionate about technology and innovation, I focus on building impactful solutions while continuously learning and growing in the tech space.  
 
+## About Me  
 
-**About Me** ℹ️
+I am currently exploring **Machine Learning** and **Data Science**, focusing on their practical applications.  
+I enjoy collaborating on projects that involve critical thinking and innovative problem-solving.  
 
-🌱 I’m currently learning ML and DS.
+### Skills and Expertise  
+- **Programming:** Java, Python, JavaScript  
+- **Web Development:** ReactJS, NodeJS  
+- **Data Analytics:** Power BI, Pandas, NumPy
+- **Databases:** MySQL, MongoDB  
+- **Cloud Tools:** AWS  
 
-👯 I’m looking to collaborate on projects which will require high critical thinking and problem solving.
+### Contact Information  
+Email: chandaksawara02@gmail.com  
 
-💬 Ask me about Java, ReactJS, Python, Data Analytics, AWS, PowerBI, JS, MongoDB, MySQL
+## Current Work  
 
-📫 How to reach me: chandaksawara02@gmail.com
+I am working on enhancing my knowledge and expertise in:  
+- **Machine Learning** – Building models to solve real-world challenges  
+- **Web Development** – Developing scalable, responsive applications with modern technologies  
+- **Data Visualization** – Using analytics tools to create impactful insights from data  
 
+## Let’s Connect  
 
-**Technologies & Tools** 🛠️
+- **LinkedIn:** [Sanwara Chandak](https://www.linkedin.com/in/sanwara-chandak-a81ab322a/)  
+- **Twitter:** [@ChandakSawara](https://twitter.com/ChandakSawara)  
 
-Here are some of the technologies and tools I work with:
-
-Programming Languages: JAVA, Python, JavaScript.
-
-Frameworks & Libraries: ReactJS, NodeJS, Pandas, Numpy, Tensorflow
-
-Databases: MongoDB, MySQL
-
-Tools: GitHub, VS Code, Slack, Trello
-
-
-
-**Get in Touch** 📬
-
-Twitter: https://twitter.com/ChandakSawara
-
-LinkedIn: https://www.linkedin.com/in/sanwara-chandak-a81ab322a/
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
-
-Thank you for visiting my GitHub profile! 
